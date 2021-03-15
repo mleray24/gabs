@@ -1,1 +1,1 @@
-module github.com/Jeffail/gabs/v2
+module github.com/mleray24/gabs/v2
